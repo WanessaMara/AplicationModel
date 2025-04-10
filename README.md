@@ -29,3 +29,9 @@ Projeto desenvolvido para uma aplicação modelo na arquitetura DDD (Domain-Driv
 5. **Execute o projeto**
     ```bash
      dotnet run
+
+## 🛠️ Tecnologias usadas
+- C#: Linguagem principal do projeto
+
+# 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
