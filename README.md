@@ -32,6 +32,3 @@ Projeto desenvolvido para uma aplicação modelo na arquitetura DDD (Domain-Driv
 
 ## 🛠️ Tecnologias usadas
 - C#: Linguagem principal do projeto
-
-# 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
