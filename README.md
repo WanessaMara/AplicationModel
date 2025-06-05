@@ -7,7 +7,7 @@ Projeto desenvolvido para uma aplicação modelo na arquitetura DDD (Domain-Driv
 - `Dominio`: Composta pelas Entidades, Interface e suas Validações 
 - `Aplicacao`: Composta pelos Serviços e Exceções
 - `Infraestrutura`: Composta pela configuração do Banco sendo DBContext
-- - `WebApi`: Composta pela Controller, configuração de Services e de requisições HTTP na class Program
+- `WebApi`: Composta pela Controller, configuração de Services e de requisições HTTP na class Program
 
 ## 🚀 Como Executar o Projeto
 1. **Clone o repositório**:
