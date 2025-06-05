@@ -1,0 +1,5 @@
+/home/e06163755/Área de Trabalho/CadastroPessoas/WebApi/obj/Debug/net8.0/WebApi.csproj.AssemblyReference.cache
+/home/e06163755/Área de Trabalho/CadastroPessoas/WebApi/obj/Debug/net8.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/e06163755/Área de Trabalho/CadastroPessoas/WebApi/obj/Debug/net8.0/WebApi.AssemblyInfoInputs.cache
+/home/e06163755/Área de Trabalho/CadastroPessoas/WebApi/obj/Debug/net8.0/WebApi.AssemblyInfo.cs
+/home/e06163755/Área de Trabalho/CadastroPessoas/WebApi/obj/Debug/net8.0/WebApi.csproj.CoreCompileInputs.cache
